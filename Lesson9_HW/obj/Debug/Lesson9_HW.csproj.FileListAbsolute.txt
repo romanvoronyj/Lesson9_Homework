@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Lesson9_HW\Lesson9_HW\bin\Debug\Lesson9_HW.exe.config
+C:\Users\User\source\repos\Lesson9_HW\Lesson9_HW\bin\Debug\Lesson9_HW.exe
+C:\Users\User\source\repos\Lesson9_HW\Lesson9_HW\bin\Debug\Lesson9_HW.pdb
+C:\Users\User\source\repos\Lesson9_HW\Lesson9_HW\obj\Debug\Lesson9_HW.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lesson9_HW\Lesson9_HW\obj\Debug\Lesson9_HW.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lesson9_HW\Lesson9_HW\obj\Debug\Lesson9_HW.exe
+C:\Users\User\source\repos\Lesson9_HW\Lesson9_HW\obj\Debug\Lesson9_HW.pdb
